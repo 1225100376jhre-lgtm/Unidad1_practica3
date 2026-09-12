@@ -1,0 +1,37 @@
+[
+    {
+        "numero_control": "1225100376",
+        "nombre": "Jairo Haziel",
+        "apellidos": "Rosas Enriquez",
+        "grupo": "GTIR246",
+        "cuatrimestre": 4
+    },
+    {
+        "numero_control": "1225100301",
+        "nombre": "Jorge Alonso",
+        "apellidos": "Escogido Lara",
+        "grupo": "GTIR246",
+        "cuatrimestre": 4
+    },
+    {
+        "numero_control": "1225100279",
+        "nombre": "Samuel Antonio",
+        "apellidos": "Olvera Villegas",
+        "grupo": "GTIR246",
+        "cuatrimestre": 4
+    },
+    {
+        "numero_control": "1225100321",
+        "nombre": "Edgar Harim",
+        "apellidos": "Monasterio Gonzalez",
+        "grupo": "GTIR146",
+        "cuatrimestre": 4
+    },
+    {
+        "numero_control": "1225100377",
+        "nombre": "Jose Heli",
+        "apellidos": "Rodriguez Flores",
+        "grupo": "GTID243",
+        "cuatrimestre": 4
+    }
+]
